@@ -10,8 +10,8 @@ https://github.com/Sumisumisumith/Arduino/assets/130366050/a4858e74-540b-4ff5-ae
 - 開発環境：Arduino IDE
 
 ## 3. システム構成
-概要的なシステム構成は次のようになる．  
-<img width="250" height="400" alt="login" src="https://github.com/Sumisumisumith/Arduino/assets/130366050/0e5774af-46f4-4153-b95f-e7c238b2bbd3">
+概要的なシステム構成は次のようになる．<br>
+<img width="300" height="400" alt="login" src="https://github.com/Sumisumisumith/Arduino/assets/130366050/0e5774af-46f4-4153-b95f-e7c238b2bbd3">
 
 
 ## 4. 内容
