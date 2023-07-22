@@ -11,7 +11,7 @@ https://github.com/Sumisumisumith/Arduino/assets/130366050/a4858e74-540b-4ff5-ae
 
 ## 3. システム構成
 概要的なシステム構成は次のようになる．
-<img width="400" height="400" alt="login" src="https://github.com/Sumisumisumith/Arduino/assets/130366050/0e5774af-46f4-4153-b95f-e7c238b2bbd3">
+<img width="200" height="400" alt="login" src="https://github.com/Sumisumisumith/Arduino/assets/130366050/0e5774af-46f4-4153-b95f-e7c238b2bbd3">
 
 
 ## 4. 内容
