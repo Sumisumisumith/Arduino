@@ -2,6 +2,7 @@
 
 ## 1. 概要
 MAKER UNOを用いた、電子メトロノームの作成<br>
+作成の動機...maker uno の基盤だけで何か役に立つものがないか考えた結果、LEDと音が鳴らせること、モニターでシリアル通信ができるという特徴を最大限生かせるものの１つとして”メトロノーム”があげられると考えたためである．また、音楽が好きなのも理由の一つ．
 
 https://github.com/Sumisumisumith/Arduino/assets/130366050/a4858e74-540b-4ff5-ae21-0e36aa8eef4a
 
@@ -9,8 +10,14 @@ https://github.com/Sumisumisumith/Arduino/assets/130366050/a4858e74-540b-4ff5-ae
 - 使用言語：C
 - 開発環境：Arduino IDE
 
-## 3. システム構成
-概要的なシステム構成は次のようになる．<br>
+## 3. 仕様＆システム構成
+主な仕様は以下の４点である．
+- LED を往復させて光らせることで(L8~L13)、視覚的にもテンポをつかめる様子にする．
+- LED を往復させる際、端に行った場合にテンポ音を鳴らす．
+- ボタンを押すとテンポ（BPM/beat per minute）を変化できるようにする．
+- シリアル通信で PC 上のモニターに現在のテンポを表示できるようにする．
+
+システム構成の概要は次のようになる．<br>
  <p align="center"><img width="300" height="400" src="https://github.com/Sumisumisumith/Arduino/assets/130366050/0e5774af-46f4-4153-b95f-e7c238b2bbd3">  
 
 各システムの詳細は以下のようになる．<br>  
